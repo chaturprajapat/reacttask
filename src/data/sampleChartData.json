@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "balance": "$3,656.06",
+      "age": 27,
+      "eyeColor": "green",
+      "name": "Loraine Duke",
+      "gender": "female"
+    },
+    {
+      "id": 2,
+      "balance": "$3,508.71",
+      "age": 29,
+      "eyeColor": "brown",
+      "name": "Lowe Oneal",
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "balance": "$3,400.92",
+      "age": 34,
+      "eyeColor": "blue",
+      "name": "Hurst Fry",
+      "gender": "male"
+    },
+    {
+      "id": 4,
+      "balance": "$1,266.51",
+      "age": 29,
+      "eyeColor": "green",
+      "name": "Dickerson Crawford",
+      "gender": "male"
+    },
+    {
+      "id": 5,
+      "balance": "$3,329.00",
+      "age": 39,
+      "eyeColor": "blue",
+      "name": "Fields Gomez",
+      "gender": "male"
+    },
+    {
+      "id": 6,
+      "balance": "$2,867.26",
+      "age": 26,
+      "eyeColor": "green",
+      "name": "Genevieve Hopper",
+      "gender": "female"
+    },
+    {
+      "id": 7,
+      "balance": "$1,646.39",
+      "age": 25,
+      "eyeColor": "blue",
+      "name": "Day Boyle",
+      "gender": "male"
+    },
+    {
+      "id": 8,
+      "balance": "$2,805.58",
+      "age": 34,
+      "eyeColor": "brown",
+      "name": "Solomon Rios",
+      "gender": "male"
+    }]
